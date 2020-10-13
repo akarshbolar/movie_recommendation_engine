@@ -1,0 +1,30 @@
+1	Kolya (1996)	4	881250949
+1	L.A. Confidential (1997)	3.7	891717742
+1	Heavyweights (1994)4	878887116
+1	Legends of the Fall (1994)	3.8	880606923
+1	Jackie Brown (1997)	3	886397596
+1	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	4	884182806
+1	Hunt for Red October, The (1990)	2	881171488
+2	Jungle Book, The (1994)	4	891628467
+2	Grease (1978)	2	886324817
+2	Remains of the Day, The (1993)	2.9	883603013
+2	Men in Black (1997)	2.3	879372434
+2	Legends of the Fall (1994)	2	880606923
+2	Jackie Brown (1997)	1.2	886397596
+2	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	4	884182806
+2	Hunt for Red October, The (1990)	4	881171488
+3	Jackie Brown (1997)	2	886397596
+3	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	4	884182806
+3	Hunt for Red October, The (1990)	1	881171488
+3	Jungle Book, The (1994) 5	891628467
+3	Grease (1978)   3.5	886324817
+3	Remains of the Day, The (1993)	3	883603013
+3	Men in Black (1997)	2	879372434
+4	Kolya (1996)	4	881250949
+4	L.A. Confidential (1997)	3.7	891717742
+4	Heavyweights (1994)		4	878887116
+4	Legends of the Fall (1994)		3.8	880606923
+4	Jackie Brown (1997)	3	886397596
+4	Jungle Book, The (1994)	5	891628467
+4	Grease (1978)	3	886324817
+4	Remains of the Day, The (1993)	3	883603013
